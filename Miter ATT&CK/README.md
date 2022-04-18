@@ -2,8 +2,8 @@
 
 # Step 1
 
-![Step 1](/images/MiterAtt&ck1.png)
+![Step 1](/Images/MiterAtt&ck1.png)
 
-#Step 2 
+# Step 2 
 
-![Step 1](/images/MiterAtt&ck2.png)
+![Step 2](/Images/MiterAtt&ck2.png)

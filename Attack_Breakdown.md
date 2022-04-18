@@ -20,7 +20,7 @@ In this slide I have broken down the network topology of the devices used to com
 
 ![SLIDE 5](/Slides/SLIDE5.png)	
 
-This slide shows the results of my Nmap scan that was completed using this command: nmap -Pn -o 192.168.1.0/24
+This slide shows the results of my Nmap scan that was completed using this command: nmap -Pn -O 192.168.1.0/24
 
 # Slide 6
 
